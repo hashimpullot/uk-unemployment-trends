@@ -1,0 +1,14 @@
+# Windows
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store
+
+# Office / Excel temp & lock files
+~$*
+
+# Tableau backups and temp files
+*.twbr
+*.tmp
+Tableau Repository/
